@@ -1,3 +1,6 @@
+// Copyright 2026 gustavosehn
+// SPDX-License-Identifier: Apache-2.0
+
 void put_char(int x, int y, char c, char fg, char bg) {
     char* vga = (char*)0xB8000;
     int pos = (y * 80 + x) * 2;

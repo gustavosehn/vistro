@@ -1,3 +1,6 @@
+; Copyright 2026 gustavosehn
+; SPDX-License-Identifier: Apache-2.0
+
 [BITS 32]
 
 section .multiboot

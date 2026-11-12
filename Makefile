@@ -1,3 +1,6 @@
+# Copyright 2026 gustavosehn
+# SPDX-License-Identifier: Apache-2.0
+
 ASM = nasm
 CC = i686-elf-gcc
 LD = i686-elf-ld
